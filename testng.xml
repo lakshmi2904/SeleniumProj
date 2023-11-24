@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+=<suite name = "Suite1" Verbose="1">
+
+
+
+   <test name = "projectmay">
+      <classes>
+         <class name="pack1.Test1" />
+         <class name="pack1.Test2"/>
+      </classes>
+   </test>
+</suite>
